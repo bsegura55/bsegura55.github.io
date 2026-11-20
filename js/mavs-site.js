@@ -45,7 +45,7 @@
         <div class="footer-column"><h3>Explora</h3><a href="index.html">Inicio</a><a href="galeria.html">Catálogo</a><a href="nosotros.html">Nuestra historia</a><a href="tienda.html">La tienda</a><a href="contacto.html">Contacto</a></div>
         <div class="footer-column"><h3>Colecciones</h3><a href="plata-piedras.html">Plata y piedras</a><a href="miyuki.html">Mostacilla Miyuki</a><a href="alambrismo.html">Alambrismo</a></div>
         <div class="footer-column footer-contact"><h3>Hablemos</h3><a href="https://wa.me/${phone}" target="_blank" rel="noopener"><i class="fa-brands fa-whatsapp"></i> +56 9 8923 4239</a><a href="mailto:mavenegas.s.mv@gmail.com"><i class="fa-regular fa-envelope"></i> mavenegas.s.mv@gmail.com</a><a href="https://www.instagram.com/mavs_jewelry/" target="_blank" rel="noopener"><i class="fa-brands fa-instagram"></i> @mavs_jewelry</a><a href="https://www.tiktok.com/@mavs_jewerly" target="_blank" rel="noopener"><i class="fa-brands fa-tiktok"></i> @mavs_jewerly</a><a href="https://www.facebook.com/profile.php?id=61570840502174" target="_blank" rel="noopener"><i class="fa-brands fa-facebook-f"></i> Mavs Jewelry</a></div>
-      </div><div class="footer-bottom"><div class="shell"><span>© ${new Date().getFullYear()} MAVS JEWELRY</span><span>Creado con dedicación ♡</span></div></div></footer>`;
+      </div><div class="footer-bottom"><div class="shell"><span>© ${new Date().getFullYear()} MAVS JEWELRY</span><span>Creado con dedicación</span></div></div></footer>`;
   }
 
   const products = window.MAVS_PRODUCTS || [];
